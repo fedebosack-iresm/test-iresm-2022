@@ -1,0 +1,4 @@
+# Ignora los archivos terminado .ini
+.vscode
+*.ini
+test-env/
